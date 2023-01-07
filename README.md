@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :fire: Github Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kamal-lab&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CKokila&theme=dark&background=000000)](https://git.io/streak-stats)
