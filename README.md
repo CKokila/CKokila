@@ -6,6 +6,6 @@
 
 ![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CKokila&theme=dark)
 
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CKokila&theme=dark&include_all_commits=true)&nbsp;&nbsp;
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CKokila&theme=dark&hide=contribs,prs)&nbsp;&nbsp;
 &nbsp;
 ![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CKokila&theme=dark&utcOffset=7)
