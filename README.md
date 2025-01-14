@@ -4,8 +4,8 @@
 
 ## <img src="assets/Hourglass Done.webp" width="24px"> &nbsp;Github Stats
 
-![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CKokila&theme=gotham)
+![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CKokila&theme=dark)
 
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CKokila&theme=gotham)&nbsp;&nbsp;
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CKokila&theme=dark)&nbsp;&nbsp;
 &nbsp;
-![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CKokila&theme=gotham&utcOffset=7)
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CKokila&theme=dark&utcOffset=7)
